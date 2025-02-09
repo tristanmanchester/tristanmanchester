@@ -35,9 +35,6 @@ I'm currently a Postdoctoral Research Associate at Diamond Light Source, where I
 - Experimental apparatus design
 - Flow cell design
 
-## Featured Projects
-
-
 
 ## Get in Touch
 
