@@ -1,6 +1,6 @@
 # Tristan Manchester
 
-👋 Hi, I'm Tristan - a materials scientist specialising in X-ray imaging techniques.
+I'm Tristan - a materials scientist specialising in X-ray imaging techniques.
 
 ## About Me
 
@@ -15,7 +15,7 @@ I'm currently a Postdoctoral Research Associate at Diamond Light Source, where I
 
 ### Scientific Computing
 - Python development for data analysis and automation
-- Deep learning frameworks (PyTorch, scikit-learn)
+- Machine learning frameworks (PyTorch, scikit-learn)
 - Image processing and computer vision
 - High-performance computing
 
@@ -23,13 +23,13 @@ I'm currently a Postdoctoral Research Associate at Diamond Light Source, where I
 - Synchrotron X-ray techniques (tomography, laminography, XANES)
 - Laboratory X-ray computed tomography
 - Electron microscopy (SEM, FIB)
-- In situ experimentation
+- *In situ* experimentation
 
 ### Engineering
 - CAD design (Fusion 360)
 - High-temperature polymer 3D printing
 - Experimental apparatus design
-- Flow cell fabrication
+- Flow cell design
 
 ## Featured Projects
 
