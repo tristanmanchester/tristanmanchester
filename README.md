@@ -35,6 +35,9 @@ I'm currently a Postdoctoral Research Associate at Diamond Light Source, where I
 - Experimental apparatus design
 - Flow cell design
 
+### Recent Publications
+- **Manchester, T.**, Anders, A., Spadotto, J., Eccleston, H., Beavan, W., Arcis, H., & Connolly, B. J. (2025). Leveraging Modified Ex Situ Tomography Data for Segmentation of In Situ Synchrotron X-Ray Computed Tomography. [arXiv:2504.19200](https://doi.org/10.48550/arXiv.2504.19200)
+
 
 ## Get in Touch
 
