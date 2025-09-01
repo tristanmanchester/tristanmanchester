@@ -41,7 +41,7 @@ I'm currently a Postdoctoral Research Associate at Diamond Light Source, where I
 
 ## Get in Touch
 
-- 📧 Email: tristan.manchester@diamond.ac.uk
+- 📧 Email: tmanchester96@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/tristanmanchester](https://linkedin.com/in/tristanmanchester)
 - 🔗 GitHub: [github.com/tristanmanchester](https://github.com/tristanmanchester)
 
