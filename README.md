@@ -11,9 +11,9 @@ I'm currently a Postdoctoral Research Associate at Diamond Light Source, where I
 - Building experimental equipment for in situ materials characterisation
 - Supporting visiting scientists with data collection and analysis
 
-| ML Segmentation | Deep Learning Segmentation | Python Art |
+| ML Segmentation | Deep Learning Segmentation | JAX CT Projector |
 |:-------------------:|:----------------------:|:----------:|
-| <img src="https://github.com/tristanmanchester/ParticleSegmentation/blob/main/example.png" width="300"> | <img src="https://github.com/tristanmanchester/ScrambledSeg/blob/main/epoch_13_sample_0.png" width="300"> | <img src="https://github.com/tristanmanchester/some_nice_python_art/blob/main/example_images/header.png" width="300"> |
+| <img src="https://github.com/tristanmanchester/ParticleSegmentation/blob/main/example.png" width="300"> | <img src="https://github.com/tristanmanchester/ScrambledSeg/blob/main/epoch_13_sample_0.png" width="300"> | <img src="https://github.com/tristanmanchester/tomojax/blob/main/images/projections.gif" width="300"> |
 
 ## Technical Skills
 
