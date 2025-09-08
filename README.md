@@ -11,15 +11,21 @@ I'm currently a Postdoctoral Research Associate at Diamond Light Source, where I
 - Building experimental equipment for in situ materials characterisation
 - Supporting visiting scientists with data collection and analysis
 
-| ML Segmentation | Deep Learning Segmentation | JAX CT Projector |
+| [ML Segmentation](https://github.com/tristanmanchester/ParticleSegmentation) | [Deep Learning Segmentation](https://github.com/tristanmanchester/ScrambledSeg) | [JAX CT Projector](https://github.com/tristanmanchester/tomojax) |
 |:-------------------:|:----------------------:|:----------:|
 | <img src="https://github.com/tristanmanchester/ParticleSegmentation/blob/main/example.png" width="300"> | <img src="https://github.com/tristanmanchester/ScrambledSeg/blob/main/epoch_13_sample_0.png" width="300"> | <img src="https://github.com/tristanmanchester/tomojax/blob/main/images/projections.gif" width="300"> |
+
+#### [Iterative Alignment and Reconstruction with Quasi-Newton Gradient Descent](https://github.com/tristanmanchester/tomojax)
+<img src="https://github.com/tristanmanchester/tomojax/blob/main/images/montage_scroll.gif" width="1000">
+
+**Left to Right**: Ground truth phantom → Naive reconstructions (misaligned & added noise) → Aligned reconstructions
+
 
 ## Technical Skills
 
 ### Scientific Computing
 - Python development for data analysis and automation
-- Machine learning frameworks (PyTorch, scikit-learn)
+- Machine learning frameworks (PyTorch, scikit-learn, JAX)
 - Image processing and computer vision
 - High-performance computing
 
