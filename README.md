@@ -7,7 +7,7 @@ I have a PhD-shaped background in physics and materials science. I spent 2 years
 
 Now, I focus on building high-fidelity web applications, AI-driven workflows, and data-heavy systems.
 
-## 🚀 Featured Project: GravityNotes
+## Featured Project: GravityNotes
 ### [Gravity Notes](https://gravitynotes.app)
 My most successful (and simplest) app, a notes app built around [Andrej Karpathy's note-taking technique](https://karpathy.bearblog.dev/the-append-and-review-note/). People seem to particularly like that there's no subscription, and no AI. 
 - **Built with:** React Native Expo, TypeScript, Swift 
@@ -16,14 +16,14 @@ My most successful (and simplest) app, a notes app built around [Andrej Karpathy
 My least successful (and most complex) app, an AI voice-notes app which is the antithesis of Gravity. People seem to particularly like not using it. 
 - **Built with:** React Native Expo, TypeScript, Railway
 
-## 🛠 Engineering & Data Science
+## Engineering & Data Science
 I like building things that are technically rigorous but simple to use.
 
 - **Full-Stack Development:** Next.js / React (Native) / TypeScript ecosystem. I build clean frontends and scalable backends (Node, Convex, PostgreSQL).
 - **AI & Automation:** Implementing agentic workflows, LLM integrations, and practical AI tools that solve business problems (OpenRouter, OpenClaw, Vercel AI Gateway).
 - **Scientific Computing:** Python (JAX, PyTorch, NumPy) for complex simulations, 3D reconstruction, and high-performance imaging analysis.
 
-## 🔬 Research Background
+## Research Background
 Before moving into commercial software, I developed novel software tools for synchrotron X-ray imaging.
 
 | [ML Segmentation](https://github.com/tristanmanchester/ParticleSegmentation) | [Deep Learning Segmentation](https://github.com/tristanmanchester/ScrambledSeg) | [JAX CT Projector](https://github.com/tristanmanchester/tomojax) |
