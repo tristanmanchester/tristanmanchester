@@ -32,7 +32,7 @@ An animated dot-matrix display component for React Native. Skia-first rendering 
 - **Built with:** React Native, Skia, Reanimated
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tristanmanchester/react-native-dotgrid/main/demos/showcase.gif" alt="Dotgrid showcase" width="600">
+  <img src="https://raw.githubusercontent.com/tristanmanchester/react-native-dotgrid/main/demos/showcase.gif" alt="Dotgrid showcase">
 </p>
 
 ## Some apps I built
