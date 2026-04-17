@@ -7,6 +7,26 @@ I have a PhD-shaped background in physics and materials science. I spent 2 years
 
 Now, I focus on building high-fidelity web applications, AI-driven workflows, and data-heavy systems.
 
+## Open Source
+
+### [TomoJAX](https://github.com/tristanmanchester/tomojax)
+A fully differentiable parallel-beam CT projector, reconstruction, and alignment toolkit built in JAX. Exact gradients for 5-DOF rigid-body alignment, memory-efficient streaming, and GPU-accelerated reconstruction. Probably the most technically interesting thing I've built.
+- **Built with:** Python, JAX
+
+<img src="https://github.com/tristanmanchester/tomojax/blob/main/images/montage_scroll.gif" width="1000">
+
+### [clipmem](https://github.com/tristanmanchester/clipmem)
+A searchable, local-only clipboard history for macOS. Watches the system clipboard, archives everything into a local SQLite database, and exposes a JSON-first CLI so that agents (and humans) can recall things you've copied. Published on [crates.io](https://crates.io/crates/clipmem).
+- **Built with:** Rust, SQLite, objc2
+
+### [apocalypse-bench](https://github.com/tristanmanchester/apocalypse-bench)
+You've got a laptop, a pile of scrap, and zero internet. Can an LLM help you survive without getting anyone hurt? A benchmark runner with structured judge rubrics and a Next.js dashboard for exploring runs. [Full writeup here.](https://www.crowlabs.tech/blog/apocalypse-bench)
+- **Built with:** TypeScript, Next.js
+
+### [react-native-dotgrid](https://github.com/tristanmanchester/react-native-dotgrid)
+An animated dot-matrix display component for React Native. Skia-first rendering with Reanimated for 60fps UI-thread animations, a VU meter mode for real-time audio visualisation, and a bunch of built-in presets. Inspired by the ElevenLabs UI.
+- **Built with:** React Native, Skia, Reanimated
+
 ## Some apps I built
 ### [Gravity Notes](https://gravitynotes.app)
 My most successful (and simplest) app, a notes app built around [Andrej Karpathy's note-taking technique](https://karpathy.bearblog.dev/the-append-and-review-note/). People seem to particularly like that there's no subscription, and no AI. 
@@ -16,22 +36,12 @@ My most successful (and simplest) app, a notes app built around [Andrej Karpathy
 My least successful (and most complex) app, an AI voice-notes app which is the antithesis of Gravity. People seem to particularly like not using it. 
 - **Built with:** React Native Expo, TypeScript, Railway
 
-## Engineering & Data Science
-I like building things that are technically rigorous but simple to use.
-
-- **Full-Stack Development:** Next.js / React (Native) / TypeScript ecosystem. I build clean frontends and scalable backends (Node, Convex, PostgreSQL).
-- **AI & Automation:** Implementing agentic workflows, LLM integrations, and practical AI tools that solve business problems (OpenRouter, OpenClaw, Vercel AI Gateway).
-- **Scientific Computing:** Python (JAX, PyTorch, NumPy) for complex simulations, 3D reconstruction, and high-performance imaging analysis.
-
 ## Research Background
-Before moving into commercial software, I developed novel software tools for synchrotron X-ray imaging.
+Before software, I spent 2 years at the UK's national synchrotron building deep-learning tools for X-ray imaging.
 
-| [ML Segmentation](https://github.com/tristanmanchester/ParticleSegmentation) | [Deep Learning Segmentation](https://github.com/tristanmanchester/ScrambledSeg) | [JAX CT Projector](https://github.com/tristanmanchester/tomojax) |
-|:-------------------:|:----------------------:|:----------:|
-| <img src="https://github.com/tristanmanchester/ParticleSegmentation/blob/main/example.jpg" width="300"> | <img src="https://github.com/tristanmanchester/ScrambledSeg/blob/main/epoch_13_sample_0.jpg" width="300"> | <img src="https://github.com/tristanmanchester/tomojax/blob/main/images/projections.gif" width="300"> |
-
-#### [Iterative Alignment and Reconstruction with Quasi-Newton Gradient Descent](https://github.com/tristanmanchester/tomojax)
-<img src="https://github.com/tristanmanchester/tomojax/blob/main/images/montage_scroll.gif" width="1000">
+| [ML Segmentation](https://github.com/tristanmanchester/ParticleSegmentation) | [Deep Learning Segmentation](https://github.com/tristanmanchester/ScrambledSeg) |
+|:-------------------:|:----------------------:|
+| <img src="https://github.com/tristanmanchester/ParticleSegmentation/blob/main/example.jpg" width="300"> | <img src="https://github.com/tristanmanchester/ScrambledSeg/blob/main/epoch_13_sample_0.jpg" width="300"> |
 
 ## 📩 Get in Touch
 I'm currently taking on freelance contracts in Munich (and remote). If you have a complex project or bespoke software needs, let's talk.
