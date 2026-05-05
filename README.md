@@ -11,13 +11,21 @@ Now, I focus on building high-fidelity web applications, AI-driven workflows, an
 
 ### [TomoJAX](https://github.com/tristanmanchester/tomojax)
 A fully differentiable parallel-beam CT projector, reconstruction, and alignment toolkit built in JAX. Exact gradients for 5-DOF rigid-body alignment, memory-efficient streaming, and GPU-accelerated reconstruction. Probably the most technically interesting thing I've built.
-- **Built with:** Python, JAX
+- **Built with:** Python · JAX · CUDA · NumPy · SciPy · Optax · HDF5
 
 <img src="https://raw.githubusercontent.com/tristanmanchester/tomojax/main/images/montage_scroll.gif" width="1000">
 
+### [SIFS: SIFS Is Fast Search](https://github.com/tristanmanchester/sifs)
+An extremely fast hybrid code search for agents. SIFS indexes a repo in 6.5 ms, answers queries in 0.376 ms, and hits NDCG@10 = 0.8641, beating every other tool on the benchmark, including the 137M-parameter CodeRankEmbed Hybrid. It runs as a CLI, a Rust crate, or a local MCP server. No GPU, no API keys, no external services. Published on [crates.io](https://crates.io/crates/sifs).
+- **Built with:** Rust · BM25 · Model2Vec · Tree-sitter · MCP · Rayon
+
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/tristanmanchester/clipmem/main/docs/clipmem-screenshot.png](https://raw.githubusercontent.com/tristanmanchester/sifs/refs/heads/main/assets/images/quality_vs_warm_latency_2.jpeg)" alt="sifs benchmark" width="600">
+</p>
+
 ### [clipmem](https://github.com/tristanmanchester/clipmem)
 A searchable, local-only clipboard history for macOS. Watches the system clipboard, archives everything into a local SQLite database, and exposes a JSON-first CLI so that agents (and humans) can recall things you've copied. Published on [crates.io](https://crates.io/crates/clipmem).
-- **Built with:** Rust, SQLite, objc2
+- **Built with:** Rust · SQLite · objc2
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tristanmanchester/clipmem/main/docs/clipmem-screenshot.png" alt="clipmem screenshot" width="600">
