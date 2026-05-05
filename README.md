@@ -20,7 +20,7 @@ An extremely fast hybrid code search for agents. SIFS indexes a repo in 6.5 ms, 
 - **Built with:** Rust · BM25 · Model2Vec · Tree-sitter · MCP · Rayon
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/tristanmanchester/clipmem/main/docs/clipmem-screenshot.png](https://raw.githubusercontent.com/tristanmanchester/sifs/refs/heads/main/assets/images/quality_vs_warm_latency_2.jpeg)" alt="sifs benchmark" width="600">
+  <img src="https://raw.githubusercontent.com/tristanmanchester/sifs/refs/heads/main/assets/images/quality_vs_warm_latency_2.jpeg" alt="sifs benchmark" width="600">
 </p>
 
 ### [clipmem](https://github.com/tristanmanchester/clipmem)
