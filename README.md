@@ -5,7 +5,7 @@ I’m a Software Engineer and Data Scientist based in Munich. I build tools that
 
 I have a PhD-shaped background in physics and materials science. I spent 2 years at the UK’s national synchrotron (**Diamond Light Source**) building instrumentation and deep-learning solutions for scientific imaging. 
 
-Now, I focus on building high-fidelity web applications, AI-driven workflows, and data-heavy systems.
+Now, I focus on building AI-driven workflows, web and mobile apps, tools for agents, and software for imaging science. 
 
 ## Open Source
 
