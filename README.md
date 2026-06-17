@@ -46,11 +46,11 @@ An animated dot-matrix display component for React Native. Skia-first rendering 
 ## Some apps I built
 ### [Gravity Notes](https://gravitynotes.app)
 My most successful (and simplest) app, a notes app built around [Andrej Karpathy's note-taking technique](https://karpathy.bearblog.dev/the-append-and-review-note/). People seem to particularly like that there's no subscription, and no AI. 
-- **Built with:** React Native Expo, TypeScript, Swift 
+- **Built with:** React Native Expo, TypeScript, Swift, SQLite
 
 ### [BrainFlow](https://brainflow.tech)
 My least successful (and most complex) app, an AI voice-notes app which is the antithesis of Gravity. People seem to particularly like not using it. 
-- **Built with:** React Native Expo, TypeScript, Railway
+- **Built with:** React Native Expo, TypeScript, Convex, Vercel AI Gateway, Clerk
 
 ## Research Background
 Before software, I spent 2 years at the UK's national synchrotron building deep-learning tools for X-ray imaging.
