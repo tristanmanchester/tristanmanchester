@@ -7,6 +7,9 @@ I have a PhD-shaped background in physics and materials science. I spent 2 years
 
 Now, I focus on building AI-driven workflows, web and mobile apps, tools for agents, and software for imaging science. 
 
+### [CrowNest](https://crownest.dev/)
+CrowNest gives coding agents isolated cloud sandboxes: programmable Linux environments they create through one SDK, CLI, and REST API to run commands, stream output, host previews, and collect artifacts.
+
 ## Open Source
 
 ### [TomoJAX](https://github.com/tristanmanchester/tomojax)
