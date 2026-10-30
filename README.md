@@ -46,7 +46,7 @@ You've got a laptop, a pile of scrap, and zero internet. Can an LLM help you sur
 
 <br clear="right">
 
-<img align="left" width="200" src="https://raw.githubusercontent.com/tristanmanchester/react-native-dotgrid/main/demos/showcase.gif" alt="Grid of dot-matrix animations">
+<img align="left" width="220" src="assets/oss/dotgrid.gif" alt="Grid of dot-matrix animations">
 
 ### [react-native-dotgrid](https://github.com/tristanmanchester/react-native-dotgrid)
 
