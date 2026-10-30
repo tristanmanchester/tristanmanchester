@@ -72,7 +72,7 @@ My most successful (and simplest) app, a notes app built around [Andrej Karpathy
 [App Store](https://apps.apple.com/app/id6756236079) · [Mac App Store](https://apps.apple.com/app/id6757930875) · [Google Play](https://play.google.com/store/apps/details?id=com.gravitynotes.app)<br>
 **Built with:** SwiftUI, React Native Expo, TypeScript, SQLite, Rust
 
-<img align="right" width="230" src="assets/apps/duolisto.webp" alt="Duolisto shared to-do list with tasks assigned to two people">
+<img align="right" width="230" src="assets/apps/duolisto-top.webp" alt="Duolisto shared to-do list with tasks assigned to two people">
 
 ### <img src="assets/icons/duolisto.webp" width="26" alt=""> [Duolisto](https://duolisto.app)
 
@@ -83,7 +83,7 @@ A tiny shared to-do list for two. Couples, flatmates and families get one list w
 
 <br clear="right">
 
-<img align="left" width="230" src="assets/apps/checkin.webp" alt="The Check-in home screen prompting a weekly check-in">
+<img align="left" width="230" src="assets/apps/checkin-top.webp" alt="The Check-in home screen prompting a weekly check-in">
 
 ### <img src="assets/icons/checkin.webp" width="26" alt=""> [The Check-in](https://thecheckin.day)
 
@@ -102,7 +102,7 @@ Paste a recipe, drop a link, photograph a cookbook page or just read it out loud
 
 **Built with:** Next.js, Convex, Clerk
 
-<img align="right" width="230" src="assets/apps/brainflow.webp" alt="A BrainFlow note generated from a voice recording">
+<img align="right" width="230" src="assets/apps/brainflow-top.webp" alt="A BrainFlow note generated from a voice recording">
 
 ### <img src="assets/icons/brainflow.webp" width="26" alt=""> [BrainFlow](https://brainflow.tech)
 
