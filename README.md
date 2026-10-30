@@ -117,10 +117,14 @@ My least successful (and most complex) app, an AI voice-notes app which is the a
 
 At Diamond I built segmentation pipelines for synchrotron X-ray tomography. The reconstruction work later became TomoJAX.
 
+<div align="center">
+
 | [ParticleSegmentation](https://github.com/tristanmanchester/ParticleSegmentation) | [ScrambledSeg](https://github.com/tristanmanchester/ScrambledSeg) |
 |:-------------------:|:----------------------:|
 | <img src="https://raw.githubusercontent.com/tristanmanchester/ParticleSegmentation/main/example.jpg" width="300"> | <img src="https://raw.githubusercontent.com/tristanmanchester/ScrambledSeg/main/epoch_13_sample_0.jpg" width="300"> |
 | k-means and watershed segmentation | SegFormer deep-learning segmentation |
+
+</div>
 
 ---
 *Based in Munich, Germany 🇩🇪*
